@@ -1,6 +1,13 @@
-# Projeto prático de analise dados
+# Projeto Prático de Análise de Dados
 
-## Base de dados com informações de consumo de clientes em diferentes espabelecimentos.
+## Base de Dados
+Base de dados com informações de consumo de clientes em diferentes estabelecimentos.
 
-Operações de soma de dados, comparações de categorias e gráficos simples para visualização
+## Atividades Realizadas
+- Soma e agregação de dados
+- Comparação entre categorias
+- Análise simples de consumo
+- Criação de gráficos para visualização
 
+## Objetivo
+Explorar os dados e apresentar informações de forma clara utilizando gráficos e comparações.
